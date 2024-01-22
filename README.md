@@ -1,7 +1,16 @@
-# Project Title
+# Frontend Mentor - QR code component solution
 
-A brief description of what this project does and who it's for\
-\
+This is a solution to the QR code component challenge on Frontend Mentor.
+
+### Screenshot
+
+![Screenshot of the website](https://i.imgur.com/qCs6YkQ.png)
+
+### Links
+
+Solution URL: [Solution - Frontend Mentor](https://www.frontendmentor.io/solutions/qrcode-made-with-html-and-scss-Mf56l-loCA)\
+Live Site URL: [Live Site](https://zpolikarpov.github.io/qr-code-component/)
+
 To run the project:
 
 - Clone the repository
@@ -48,3 +57,7 @@ The project uses Vite to create a React app. Currently Vite is just used to crea
 ### React
 
 Not used for anything specific as of now. I will start learning and working with React later down the line, so I figured I might as well include it in my template.
+
+# Author
+
+Frontend Mentor - [@ZPolikarpov](https://www.frontendmentor.io/profile/ZPolikarpov)
