@@ -1,7 +1,7 @@
 function App() {
 	return (
 		<>
-			<body className="bg-neutral-100">
+			<main className="bg-neutral-100">
 				<section className="section" data-type="full-screen">
 					<div className="container">
 						<div className="card | mx-auto" data-type="qr-code">
@@ -13,7 +13,7 @@ function App() {
 						</div>
 					</div>
 				</section>
-			</body>
+			</main>
 		</>
   )
 }
