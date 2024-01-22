@@ -14,4 +14,17 @@
   &__heading {
     @include heading($card-heading-font-size, $card-heading-color-default);
   }
+
+  &[data-type="qr-code"] {
+    width: clamp(320px, 90vw, 350px);
+
+    & img {
+      border-radius: $size-3;
+    }
+
+    & div {
+      padding-block-end: $size-6;
+      padding-inline: $size-4;
+    }
+  }
 }
